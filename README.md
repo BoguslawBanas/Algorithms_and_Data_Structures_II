@@ -5,7 +5,7 @@
   <a href="https://github.com/BoguslawBanas/Algorithms_and_Data_Structures_II/blob/main/Mrok.cpp">1. Mrok (Dark)</a>
 </h2>
 <p align="left">
-	A simple exercise which the main point was to implement the Dijkstra's algorithm. We got the imput which represents the n amount of points on the 2-dimensional grid. We also get the start and the end point which we need to reach and output the minimal distance to do that. The formula to calculate the distance between two points is abs(p1.x-p2.x)<abs(p1.y-p2.y) ? abs(p1.x-p2.x): abs(p1.y-p2.y). Due to the fact that our graph is a sparse one the best option is an adjacency list.
+	A simple exercise which the main point was to implement the Dijkstra's algorithm. We got the imput which represents the n amount of points on the 2-dimensional grid. We also get the start and the end point which we need to reach and output the minimal distance to do that. The formula to calculate the distance between two points is abs(p1.x-p2.x)&ltabs(p1.y-p2.y) ? abs(p1.x-p2.x) : abs(p1.y-p2.y). Due to the fact that our graph is a sparse one the best option is an adjacency list.
 </p>
 
 <h2 align="left">
